@@ -14,7 +14,7 @@ The design of prompts in CDSS is a dance between specificity and generality. On 
 
 ---
 
-*Challenges in Prompt Engineering for Clinical Decision Support*
+**Challenges in Prompt Engineering for Clinical Decision Support**
 
 Engineering prompts for CDSS is not without its challenges. One major hurdle is the diversity of patients and conditions. Like fingerprints, no two patients are exactly alike, and their conditions and histories are equally diverse. Another challenge is the ever-evolving nature of medical knowledge. What is considered best practice today might be outdated tomorrow. Designing prompts that are adaptable and up-to-date is like trying to hit a moving target.
 
