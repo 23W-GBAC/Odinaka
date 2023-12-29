@@ -1,5 +1,6 @@
 **Tailoring Prompts for Clinical Decision Support: A Delicate Balance**
 
+![ai-generated-7783344_1920](https://github.com/23W-GBAC/enaJohn/assets/41876694/1658acd8-3262-428a-8363-88a26a56d17a)
 ---
 
 **Introduction**
