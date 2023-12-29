@@ -1,8 +1,8 @@
-Title: *Tailoring Prompts for Clinical Decision Support: A Delicate Balance*
+**Tailoring Prompts for Clinical Decision Support: A Delicate Balance**
 
 ---
 
-*Introduction*
+**Introduction**
 
 In the intricate world of healthcare, clinical decision support systems (CDSS) have emerged as pivotal tools, guiding healthcare professionals through a labyrinth of critical decisions. Central to these systems are the prompts – the nuanced cues and questions that guide decision-making. This blog post delves into the art and science of tailoring these prompts, balancing between the razor's edge of specificity and the broad strokes of generality. We'll explore the unique challenges in prompt engineering for CDSS and how these carefully crafted prompts can assist healthcare professionals in making informed decisions.
 
