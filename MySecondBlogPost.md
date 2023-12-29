@@ -26,19 +26,19 @@ Real-world case studies shed light on the impact of well-designed prompts. For i
 
 ---
 
-*Ethical Considerations in Prompt Engineering for Healthcare Professionals*
+**Ethical Considerations in Prompt Engineering for Healthcare Professionals**
 
 Ethical considerations in prompt engineering cannot be overstated. The prompts must not only be accurate and helpful but also respect patient privacy and autonomy. They should aid healthcare professionals without supplanting their judgment. It's a tightrope walk between providing helpful guidance and respecting the sanctity of the patient-doctor relationship.
 
 ---
 
-*Conclusion*
+**Conclusion**
 
 The development of prompts for clinical decision support systems is a delicate balance of art and science. It requires a nuanced understanding of both the medical field and the unique challenges faced in healthcare. When done right, these prompts can significantly aid healthcare professionals in making informed decisions, ultimately leading to better patient outcomes. As we continue to advance in the field of medical technology, the role of tailored prompts in CDSS will undoubtedly become even more crucial.
 
 ---
 
-*References*
+**References**
 
 1. "Designing Effective Prompts for Clinical Decision Support Systems," Journal of Healthcare Innovation.
 2. "Case Study: Reducing Medication Errors Using CDSS," Healthcare IT News.
