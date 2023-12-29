@@ -20,7 +20,7 @@ Engineering prompts for CDSS is not without its challenges. One major hurdle is 
 
 ---
 
-*Case Studies Demonstrating the Impact of Tailored Prompts*
+**Case Studies Demonstrating the Impact of Tailored Prompts**
 
 Real-world case studies shed light on the impact of well-designed prompts. For instance, a CDSS used in a Boston clinic was instrumental in reducing medication errors by providing prompts based on patient history and current medications. In another case, a hospital in Toronto used a CDSS with tailored prompts to identify patients at risk of sepsis, significantly improving patient outcomes.
 
