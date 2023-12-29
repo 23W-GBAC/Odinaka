@@ -8,7 +8,7 @@ In the intricate world of healthcare, clinical decision support systems (CDSS) h
 
 ---
 
-*Specificity vs. Generality in Prompt Design*
+**Specificity vs. Generality in Prompt Design**
 
 The design of prompts in CDSS is a dance between specificity and generality. On one hand, overly specific prompts can lead to a narrow focus, potentially missing out on broader patient context. On the other, too general prompts may lack the necessary detail to be truly useful. Striking this balance is akin to finding the perfect prescription – it requires a deep understanding of both the medical field and the patient's unique circumstances.
 
