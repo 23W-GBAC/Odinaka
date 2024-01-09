@@ -14,7 +14,7 @@ The first step in harnessing the potential of prompts in health information retr
 Prompts that exhibit semantic understanding are particularly effective. Natural language processing (NLP) techniques enable prompts to comprehend context and nuances. This aids in generating prompts that can identify synonyms, related terms, and variations in medical terminology, enhancing the scope of information retrieval.
 
   **Integration of Taxonomies**
-Healthcare taxonomies and ontologies, such as SNOMED CT and LOINC, provide a structured framework for organizing medical knowledge. Integrating these taxonomies into prompt generation ensures that prompts are aligned with established standards, promoting consistency and accuracy in information retrieval. Healthcare, 
+Healthcare taxonomies and ontologies, such as SNOMED CT and LOINC, provide a structured framework for organizing medical knowledge. Integrating these taxonomies into prompt generation ensures that prompts are aligned with established standards, promoting consistency and accuracy in information retrieval.
 
  **Navigating Healthcare Databases with Well-Crafted Prompts**
 
