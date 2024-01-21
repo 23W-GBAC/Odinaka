@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Local= "/mnt/c/Users/user/Downloads/e.jpg"
+Local= "/mnt/c/Users/user/Downloads/$e.jpg"
 
 Repo= "~/Odinaka/images/"
 
