@@ -1,10 +1,10 @@
 #!/bin/bash
 
-Local= "/mnt/c/Users/user/Downloads/IMG_2393.jpg"
+Local= "/mnt/c/Users/user/Downloads/e.jpg"
 
-Repo= "~/Odinaka/images"
+Repo= "~/Odinaka/images/"
 
-cp "$Local" "$Repo"
+cp "$Local" $Repo
 
 cd ~/Odinaka
 
