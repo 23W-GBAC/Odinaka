@@ -4,7 +4,7 @@ Local= "/mnt/c/Users/user/Downloads/e.jpg"
 
 Repo= "~/Odinaka/images/"
 
-cp "$Local" $Repo
+cp "/mnt/c/Users/user/Downloads/e.jpg" ~/Odinaka/images/
 
 cd ~/Odinaka
 
