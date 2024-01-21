@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Local= "/mnt/c/Users/user/Downloads/medical.jpg"
+Local= "/mnt/c/Users/user/Downloads/IMG_2393.jpg"
 
 Repo= "https://github.com/23W-GBAC/Odinaka/tree/main/images"
 
