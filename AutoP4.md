@@ -14,8 +14,8 @@ input_directory="/path/to/your/images"
 output_directory="/path/to/output/directory"
 
 # Maximum width and height for the resized images
-max_width=700
-max_height=550
+max_width=800
+max_height=600
 
 # Check if the output directory exists, if not, create it
 if [ ! -d "$output_directory" ]; then
