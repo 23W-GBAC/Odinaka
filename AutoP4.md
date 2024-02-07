@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 # Check if ImageMagick (convert) is installed
@@ -34,6 +35,8 @@ for image in "$input_directory"/*.{jpg,jpeg,png,gif}; do
 		fi
 done
 echo "Image resizing completed."
+```
+
 Problem and Context
 High-resolution images are crucial for quality digital content, yet they pose challenges for web performance and storage efficiency. Large image files can lead to increased page load times, negatively impacting user experience and SEO rankings. Manually resizing images for each piece of content is time-consuming and prone to inconsistency.
 
