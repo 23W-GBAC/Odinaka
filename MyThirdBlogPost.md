@@ -51,10 +51,11 @@ In a study on drug interactions, well-optimized prompts were used to query a dat
  **Case Study 2: Medical Literature Review**
 Researchers seeking the latest advancements in cancer treatment utilized prompts with semantic understanding. These prompts combed through vast repositories of medical literature, providing researchers with up-to-date and relevant information for their studies.
 
- **Case Study 3: Clinical Decision Support**
+ **Case Study 3: Clinical Decision Support** 
 A hospital integrated personalized prompts into its EHR system. Physicians received prompts tailored to each patient's medical history and current condition. This resulted in more informed treatment decisions, improved patient care, and reduced medical errors.
 
-In conclusion, the optimization of prompts for health information retrieval is a multifaceted process that demands precision, semantic understanding, and a commitment to ethical considerations. Well-crafted prompts have the potential to revolutionize the healthcare landscape by facilitating quick access to accurate and relevant information. As technology continues to advance, the role of prompts in healthcare will only grow, ultimately benefiting both healthcare professionals and patients.
+**Conclusion**
+The optimization of prompts for health information retrieval is a multifaceted process that demands precision, semantic understanding, and a commitment to ethical considerations. Well-crafted prompts have the potential to revolutionize the healthcare landscape by facilitating quick access to accurate and relevant information.As technological advancements progress further, the utilization and significance of prompts within the healthcare sector are poised to expand, ultimately leading to enhanced advantages for both healthcare practitioners and patients alike.
 
  **References**
 
